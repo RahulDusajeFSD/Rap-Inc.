@@ -1,0 +1,750 @@
+{
+  "GTA": {
+    "Toronto": {
+      "Accomodation": [
+        {
+          "name": "Victoria's Mansion Guest House",
+          "address": "68 Gloucester St, Toronto, Ontario M4Y 1L5 Canada",
+          "phone_number": "1(647)696-8945",
+          "email": "info@victoriasmansion.com",
+          "website": "https://www.victoriasmansion.com/",
+          "price": "$102"
+        },
+        {
+          "name": "One King West Hotel & Residence",
+          "address": "1 King Street West, Toronto, Ontario M5H 1A1 Canada",
+          "phone_number": "1 (866) 470-5464",
+          "email": "reservations@onekingwest.com",
+          "website": "https://www.onekingwest.com/",
+          "price": "$165"
+        },
+        {
+          "name": "The Drake Hotel",
+          "address": "1150 Queen St W, Toronto, Ontario M6J 1J3 Canada",
+          "phone_number": "1 (866) 470-5464",
+          "email": "",
+          "website": "https://www.thedrake.ca/thedrakehotel/",
+          "price": "$150"
+        },
+        {
+          "name": "One King West Hotel & Residence",
+          "address": "1 King Street West, Toronto, Ontario M5H 1A1 Canada",
+          "phone_number": "1(647)696-8945",
+          "email": "reservations@onekingwest.com",
+          "website": "https://www.onekingwest.com/",
+          "price": "$230"
+        },
+        {
+          "name": "Delta Hotels by Marriott Toronto",
+          "Address": "75 Lower Simcoe Street, Toronto, Ontario M5J 3A6 Canada",
+          "phone_number": "1 (855) 821-4553",
+          "email": "reservations@DeltaHotelsbyMarriottToronto.com",
+          "website": "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CNr46Kj2h4MDFWb-9QIdOJgFwg",
+          "price": "$278"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Drake general store",
+          "Address": "Lower Level, 176 Yonge St, Toronto, ON M5C 2L7, Canada",
+          "Mobile": "+1 416-861-6009",
+          "Website": "http://www.drakegeneralstore.ca/"
+        },
+        {
+          "Name": "Holt Renfrew",
+          "Address": "50 Bloor St W, Toronto, ON M4W 1A1, Canada",
+          "Mobile": "+1 416-922-2333",
+          "Website": "https://www.holtrenfrew.com/en/"
+        },
+        {
+          "Name": "Gotstyle Men's & Women's Clothing",
+          "Address": "21 Trinity St, Toronto, ON M5A 3C4, Canada",
+          "Mobile": "+1 416-260-9696",
+          "Website": "http://gotstyle.com/"
+        },
+        {
+          "Name": "6 By Gee Beauty",
+          "Address": "6 Roxborough St W, Toronto, ON M5R 1T8, Canada",
+          "Mobile": "+1 416-960-8080",
+          "Website": "http://www.6bygeebeauty.com/"
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "Toronto Medical Centre",
+          "Address": " 60 Steels Avenue",
+          "phone_number": "+1 411020448330",
+          "email": "info@tmc.ca"
+        },
+        {
+          "name": "Runnymade Medical Centre",
+          "Address": " 2712 Bathurst-Wilson",
+          "phone_number": "+1 411020948198",
+          "email": "info@rmc.ca"
+        }
+      ]
+    },
+    "Mississauga": {
+      "Accomodation": [
+        {
+          "name": "Four Points by Sheraton Toronto Mississauga",
+          "address": "6090 Dixie Rd, Mississauga, Ontario L5T 1A6 Canada",
+          "phone_number": "+19056700050",
+          "email": "info@victoriasmansion.com",
+          "website": "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CMTpsa33h4MDFR_QTwId0lkBQA",
+          "price": "$127"
+        },
+        {
+          "name": "Delta Hotels by Marriott Toronto Mississauga",
+          "Address": "3670 Hurontario St, Mississauga, Ontario L5B 1P3 Canada",
+          "phone_number": "19058961000",
+          "email": "reservations@onekingwest.com",
+          "website": "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CIK-4fP3h4MDFTrq9QId5EQEMg",
+          "price": "$170"
+        },
+        {
+          "name": "Hampton Inn & Suites by Hilton Toronto Airport",
+          "Address": "3279 Caroga Dr, Mississauga, Ontario L4V 1A3 Canada",
+          "phone_number": "+1 905-671-4730",
+          "email": "",
+          "website": "https://www.thedrake.ca/thedrakehotel/",
+          "price": "$150"
+        },
+        {
+          "name": "Holiday Inn Express & Suites Toronto Airport West, an IHG",
+          "Address": "5599 Ambler Drive, Mississauga, Ontario L4W 3Z1 Canada",
+          "phone_number": "1 (877) 944-7020",
+          "email": "",
+          "website": "hhttps://www.ihg.com/holidayinnexpress/hotels/us/en/mississauga/yyzms/hoteldetail?fromRedirect=true&qSrt=sAV&qIta=99618083&icdv=99618083&glat=MEDI_TABA-website_mdpr_TripAdvisorCA_BLwebsiteD_YYZMS_us_en_ba&qSlH=YYZMS&qRms=1&qAdlt=2&qChld=0&qCiD=24&qCiMy=112023&qCoD=25&qCoMy=112023&setPMCookies=true&qSHBrC=EX&qDest=5599%2520Ambler%2520Drive%252C%2520Mississauga%252C%2520ON%252C%2520CA&cm_mmc=TABA-website_mdpr_TripAdvisorCA_BLwebsiteD_YYZMS_us_en_ba&srb_u=1",
+          "price": "$127"
+        },
+        {
+          "name": "Comfort Inn Mississauga",
+          "Address": "31 Topflight Dr, Mississauga, Ontario L5S 1Y1 Canada",
+          "phone_number": "1 (833) 743-0678",
+          "email": "reservations@DeltaHotelsbyMarriottToronto.com",
+          "website": "https://www.choicehotels.com/ontario/mississauga/comfort-inn-hotels/cn900?iata=00232480&mc=bltaclus&meta=CN900_2023-12-24_TABAba_1_2_HotelWebsite&pmf=tripblca&refid=6ac31f4d-d76c-432e-8856-c26ab251f413&adults=2&checkInDate=2023-12-24&checkOutDate=2023-12-25",
+          "price": "$154"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "5th Avenue Fashion with Passion",
+          "Address": " 377 Burnhamthorpe Rd E Unit 30, Mississauga, ON L5A 3Y1",
+          "Mobile": " (289) 644-5451",
+          "Website": "https://www.facebook.com/5thavenuefashionwithpassion"
+        },
+        {
+          "Name": "Urban Planet",
+          "Address": "100 City Centre Dr Unit#152/153/155/156, Mississauga, ON L5B 2C9",
+          "Mobile": "(905) 277-0763",
+          "Website": "https://urban-planet.com/collections/up_new_shop-all-new?utm_source=GMB"
+        },
+        {
+          "Name": "Ever New Square One",
+          "Address": "100 City Centre Dr 2 - 237, Mississauga, ON L5B 2C9",
+          "Mobile": "(905) 615-8441",
+          "Website": "https://www.evernew.ca/"
+        },
+        {
+          "Name": "Urban Outfitters",
+          "Address": "100 City Centre Dr Store 1029, Mississauga, ON L5B 2C9",
+          "Mobile": "(905) 276-9898",
+          "Website": "https://www.urbanoutfitters.com/stores/square-one?utm_medium=organic&utm_source=google&utm_campaign=local&utm_content=1024"
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "Mississauga Medical Centre",
+          "Address": " 3980 Grand Park Dr ",
+          "phone_number": "+1 (905) 615-0107",
+          "email": "info@mmc.ca"
+        },
+        {
+          "name": "Credit Valley Hospital",
+          "Address": "2200 Eglinton Ave W, Mississauga, ON L5M 2N1",
+          "phone_number": "(905) 813-2200",
+          "email": "info@cvh.ca"
+        }
+      ]
+    },
+    "Brampton": {
+      "Accomodation": [
+        {
+          "name": "Quality Inn & Suites",
+          "Address": "30 Clark Blvd, Brampton, Ontario L6W 1X3 Canada",
+          "phone_number": "1 (833) 736-0554",
+          "email": "",
+          "website": "https://www.choicehotels.com/ontario/brampton/quality-inn-hotels/cnb17?iata=00232480&mc=bltaclus&meta=CNB17_2023-12-24_TABAba_1_2_HotelWebsite&pmf=tripblca&refid=ef1abc69-0bac-4c22-8a37-f1b905e59371&adults=2&checkInDate=2023-12-24&checkOutDate=2023-12-25",
+          "price": "$157"
+        },
+        {
+          "name": "Courtyard by Marriott Toronto Brampton",
+          "address": "90 Biscayne Cres, Brampton, Ontario L6W 4S1 Canada",
+          "phone_number": "1 (855) 821-4553",
+          "email": "",
+          "website": "https://www.marriott.com/reservation/rateListMenu.mi?scid=b661a3c4-9c47-48c8-9e13-75b66089dd79&dclid=CJ663Zn7h4MDFZzb9QIdyggHvg",
+          "price": "$140"
+        },
+        {
+          "name": "Fairfield Inn & Suites Toronto Brampton",
+          "address": "45 Coventry Rd, Brampton, Ontario L6T 4V7 Canada150 Westcreek Blvd, Brampton, Ontario L6T 5V7 Canadaber:",
+          "phone_number": "+1 (855) 821-4553",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Hotel_Review-g154982-d568787-Reviews-Fairfield_Inn_Suites_Toronto_Brampton-Brampton_Ontario.html",
+          "price": "$144"
+        },
+        {
+          "name": "Holiday Inn Express & Suites Brampton, an IHG Hotel",
+          "address": "10 Nevets Rd, Brampton, Ontario L6T 5T2 Canada",
+          "phone_number": "1 (888) 972-8734",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=139915789&geo=631827&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=1007820&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282229411&managed=false&capped=false&gosox=srVNQGoQ5BIVms7GkGUZCKL4CLybQm-R30SAtBsffBKISYJpTBzVDJrspvZooaZMtTBJMWLqDYB4ZNe5zmZDbxbNH7DKk9EQa0T_u8vXppUq-WyC9KvA7jUyrK-lkr-c&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=1a20182685780c30f6ceaf9531bb2e816&ba_uid=ba3b53e0-6532-4ca0-a4ac-7e4d32d13d9f",
+          "price": "$140"
+        },
+        {
+          "name": "Hilton Garden Inn Toronto Brampton West",
+          "address": "200 Steelwell Road, Brampton, Ontario L6T 5T3 Canada",
+          "phone_number": "1 (905) 216-4104",
+          "email": "reservations@DeltaHotelsbyMarriottToronto.com",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=151724974&geo=17384001&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=899440&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282229504&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDb076nlB_1brbYl-UeYy8janQr-sykbkLvS4pP6rPFluc&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=1da0ae0e8d1f29f8c0114bcaca3d2705e&ba_uid=00415be6-95ad-42ae-ac4c-0c3d3107286c",
+          "price": "$156"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Urban Planet",
+          "Address": " 499 Main St S Unit 137-138-139, Brampton, ON L6Y 1N7",
+          "Mobile": "(905) 453-8443",
+          "Website": "https://urban-planet.com/collections/up_new_shop-all-new?utm_source=GMB"
+        },
+        {
+          "Name": "Old Navy",
+          "Address": "25 Peel Centre Dr Unit 173B, Brampton, ON L6T 3R5",
+          "Mobile": " (905) 790-9284",
+          "Website": "https://oldnavy.gapcanada.ca/stores/on/brampton/bramalea-city-centre-5463"
+        },
+        {
+          "Name": "The Fashion Network",
+          "Address": " 456 Vodden St E, Brampton, ON L6S 5Y7",
+          "Mobile": "(416) 526-0432",
+          "Website": "https://www.thefashionnetwork.ca/"
+        },
+        {
+          "Name": "Forever21",
+          "Address": "25 Peel Centre Dr, Brampton, ON L6T 3R5",
+          "Mobile": " (905) 456-7356",
+          "Website": "https://urban-planet.com/pages/forever-21"
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "William Hosler Medical Centre",
+          "Address": " 2100 Bovaird Dr E, Brampton, ON L6R 3J7",
+          "phone_number": "+1 (905) 494-2120",
+          "email": "info@whmc.ca"
+        },
+        {
+          "name": "Brampton Medical Centre",
+          "Address": " Peter Robertson Blvd, Brampton, ON",
+          "phone_number": "+1  (905) 494-2120",
+          "email": "info@bmc.ca"
+        }
+      ]
+    },
+    "York": {
+      "Accomodation": [
+        {
+          "name": "Fairmont Royal York",
+          "address": "100 Front Street West, Toronto, Ontario M5J 1E3 Canada",
+          "phone_number": "1 (844) 709-0679",
+          "email": "info@victoriasmansion.com",
+          "website": "https://www.fairmont.com/royal-york-toronto/?genid=tripadvisor_ryh_ta_business_advantage&utm_source=tripadvisor&utm_medium=paid_referrer&utm_content=ryh&utm_campaign=ta_business_advantage",
+          "price": "$230"
+        },
+        {
+          "name": "Best Western Plus Toronto North York Hotel & Suites",
+          "address": "50 Norfinch Dr, Toronto, Ontario M3N 1X1 Canada",
+          "phone_number": "1 (866) 470-5464",
+          "email": "",
+          "website": "https://www.bestwestern.com/en_US/book/hotel-rooms.66113.html?iata=00170230&ssob=BLPBM0001G&checkIn=2023-12-24&checkOut=2023-12-25&rooms=1&adults=2&children=0&utm_content=BA&cid=BLPBM0001G:tripadvisor:HWS:66113&refid=ff7893b3-95e3-403a-bdfd-0c4a4719e293",
+          "price": "$150"
+        },
+        {
+          "name": "Hotel X Toronto by Library Hotel Collection",
+          "address": "111 Princes Blvd Entrance at corner of Lake Shore Blvd. and Newfoundland Dr., Toronto, Ontario M6K 3C3",
+          "phone_number": "1 (647) 696-8300",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=0&geo=13234261&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=282230090&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkaQiboG3uKuf-GMc4Dst9rK3mYeBR4xTz9zNf8Ey-RGb0bGkdu9NRQ6VWLrqWZgb4Q&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=13187238676a748621559404ffb8cce5a&ba_uid=5b86891a-b27b-48e0-9edb-21c7e40dfd29",
+          "price": "$468"
+        },
+        {
+          "name": "Holiday Inn Express Toronto-North York, an IHG Hotel",
+          "address": "30 Norfinch Drive, Toronto, Ontario M3N 1X1 Canada",
+          "phone_number": "1 (844) 727-1835",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=139917389&geo=181966&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=1007820&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282230179&managed=false&capped=false&gosox=srVNQGoQ5BIVms7GkGUZCKL4CLybQm-R30SAtBsffBKISYJpTBzVDJrspvZooaZMtTBJMWLqDYB4ZNe5zmZDb4xqcQkMayl7qBjqrfT9fLLE0dNvmCCrG39KUKBP7FOF&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=1c8f1f0b892c5756cb9290381608e23dd&ba_uid=c4c41d55-c2b5-4e79-9854-f36f2de2b5ac",
+          "price": "$162"
+        },
+        {
+          "name": "Comfort Inn Toronto North",
+          "Address": "66 Norfinch Dr, Toronto, Ontario M3N 1X1 Canada",
+          "phone_number": "1 (833) 872-7551",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=235136522&geo=184058&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=984132&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282230333&managed=false&capped=false&gosox=22K9bxybYNIQ0zmtj-2lBA1njCkDI-o9e4-Jhhpexs7U2DWZH8UceOlrxUwRS9-FtTBJMWLqDYB4ZNe5zmZDb5u0lEX7OXgCwfbwPDw6MdmwehUllAY9FqjjD47PJBBs&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=13c16e47dd56c67ecf782ab38b19f26ff&ba_uid=a8a13606-e84f-42ec-be84-0cbd1fceccdc",
+          "price": "$130"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Old Navy",
+          "Address": " 30 Weston Rd, Toronto, ON M6N 5H4",
+          "Mobile": "(416) 761-5331",
+          "Website": "https://oldnavy.gapcanada.ca/stores/on/toronto/stock-yards-village-3986"
+        },
+        {
+          "Name": "Banana Republic Factory Store",
+          "Address": "1970 St Clair Ave W UNIT 205, Toronto, ON M6N 0A3",
+          "Mobile": "(416) 766-2652",
+          "Website": "https://bananarepublic.gapcanada.ca/stores/on/toronto/stock-yards-village-1569"
+        },
+        {
+          "Name": "Parpar Boutique",
+          "Address": "649 St Clair Ave W, Toronto, ON M6C 1A7",
+          "Mobile": "(416) 657-3333",
+          "Website": "https://parpar.ca/"
+        },
+        {
+          "Name": "Mark's",
+          "Address": "590 Keele St, Toronto, ON M6N 3E2",
+          "Mobile": "(416) 766-4883",
+          "Website": "https://www.marks.com/en/store-details/on/toronto-stockyards-82.html?utm_source=google&utm_medium=GMB&utm_campaign=GMB_Listing"
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "North York General Hospital",
+          "Address": " 4001 Leslie St, Toronto, ON M2K 1E1",
+          "phone_number": "+1 (905) 494-1119",
+          "email": "info@nygc.ca"
+        },
+        {
+          "name": "Humber River Hospital",
+          "Address": " 1235 Wilson Ave, North York, ON M3M 0B2",
+          "phone_number": "+1  (905) 476-8976",
+          "email": "info@hrh.ca"
+        }
+      ]
+    }
+  },
+  "NYC": {
+    "Manhattan": {
+      "Accomodation": [
+        {
+          "name": "Arlo Midtown",
+          "address": "351 W 38th Street, New York City, NY 10018",
+          "phone_number": "1 (646) 828-1426",
+          "email": "reservations@arlohotels.com",
+          "website": "https://arlohotels.com/midtown/",
+          "price": "$325"
+        },
+        {
+          "name": "PUBLIC Hotel",
+          "address": " New York City 215 Chrystie Street, New York City, NY 10002",
+          "phone_number": "1 (888) 603-7376",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=0&geo=12533513&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=282230604&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkZ0zxxCNteiV6MhX2WDQKtn4Wvnbb7-X1bwr7XJqVzbQqu1RoFSwwHDzTksCJnf57g&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=18cdac7c3affb5112b4be15981fb0d33e&ba_uid=6fff7ab5-c40a-4237-bf92-0a6b495b2396",
+          "price": "$268"
+        },
+        {
+          "name": "Margaritaville Resort Times Square",
+          "address": "560 7th Ave, New York City, NY 10018",
+          "phone_number": "2122213007",
+          "email": "",
+          "website": "https://www.margaritavilleresorts.com/margaritaville-resort-times-square?utm_source=Tripadvisor&utm_medium=bizadv",
+          "price": "$371"
+        },
+        {
+          "name": "Dagaritaville Resort Times Square",
+          "address": "570 7th Ave, New York City 560 7th Ave, New York City, NY 10018",
+          "phone_number": "2122213055",
+          "email": "",
+          "website": "https://www.margaritavilleresorts.com/margaritaville-resort-times-square?utm_source=Tripadvisor&utm_medium=bizadv",
+          "price": "$370"
+        },
+        {
+          "name": "Hotel Riu Plaza New York Times Square",
+          "address": "s in New York City 305 W 46th St, New York City, NY 10036-3810",
+          "phone_number": "1 (855) 821-4553",
+          "email": "",
+          "website": "https://www.riu.com/en/hotel/usa/new-york/hotel-riu-plaza-new-york-times-square/?utm_source=Tripadvisor&utm_medium=textlink&utm_term=zny&utm_content=h&utm_campaign=CA_EN_plaza_textlink_BL_poc&clickID=5a67ccdb-3fb9-4dec-a446-f3ca9eaa262b&dclid=COelrPOBiIMDFY7gGAIdRjsAeg",
+          "price": "$501"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Urban Outfitters",
+          "Address": "1333 Broadway Herald Sq, 1333 Broadway, New York, NY 10018, United States",
+          "Mobile": "+1 212-239-1673",
+          "Website": "https://www.urbanoutfitters.com/stores/herald-square?utm_medium=organic&utm_source=google&utm_campaign=local&utm_content=1015https://www.urbanoutfitters.com/stores/herald-square?utm_medium=organic&utm_source=google&utm_campaign=local&utm_content=1015"
+        },
+        {
+          "Name": "Free People",
+          "Address": "79 5th Ave, New York, NY 10003, United States",
+          "Mobile": "+1 212-647-1293",
+          "Website": "https://www.freepeople.com/stores/5th-ave-new-york/"
+        },
+        {
+          "Name": "Rainbow Shops",
+          "Address": "380 5th Ave, New York, NY 10018, United States",
+          "Mobile": "+1 212-947-0837",
+          "Website": "https://stores.rainbowshops.com/ny/new-york/70/?utm_source=G&utm_medium=lpm&utm_campaign=RainbowShops"
+        },
+        {
+          "Name": "Forever 21",
+          "Address": "1540 Broadway, New York, NY 10036, United States",
+          "Mobile": "+1 212-302-0594",
+          "Website": "https://locations.forever21.com/us/stores/ny/newyork/1540-broadway?utm_medium=organic&utm_source=local&utm_campaign=google"
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "NYC Health + Hospitals/Bellevue",
+          "Address": "462 1st Ave., New York, NY 10016, United States",
+          "phone_number": "+1 212-562-5555",
+          "email": "info@nych.us"
+        },
+        {
+          "name": "NewYork-Presbyterian Lower Manhattan Hospital",
+          "Address": " 170 William St, New York, NY 10038, United States",
+          "phone_number": "+1 212-312-5000",
+          "email": "info@myplmh.us"
+        }
+      ]
+    },
+    "Bronx": {
+      "Accomodation": [
+        {
+          "name": "Boro Hotel",
+          "address": "3828 27th St 39th Avenue & 38th Avenue, Long Island City, NY 11101-2702",
+          "phone_number": "",
+          "email": "",
+          "website": "",
+          "price": "$317"
+        },
+        {
+          "name": "Radisson Hotel JFK Airport",
+          "address": "135-30 140th Street, Jamaica, NY 11436",
+          "phone_number": "1 (866) 348-5015",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=240094995&geo=225472&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=984132&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282232804&managed=false&capped=false&gosox=22K9bxybYNIQ0zmtj-2lBA1njCkDI-o9e4-Jhhpexs7U2DWZH8UceOlrxUwRS9-FtTBJMWLqDYB4ZNe5zmZDbxN_SJ6CKwFbPT9oHoeAFX4Dg8X-ALjQFItDBAEqu7qq&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=1627360823ef1c006828cf368780c262b&ba_uid=0f7ba069-7c2a-41ae-a500-028a5e1fb225",
+          "price": "$322"
+        },
+        {
+          "name": "TownePlace Suites New York Long Island City/Manhattan View",
+          "address": "38-42 11th Street, Long Island City, NY 11101",
+          "phone_number": "1 (718) 392-7600",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=240094995&geo=225472&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=984132&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282232804&managed=false&capped=false&gosox=22K9bxybYNIQ0zmtj-2lBA1njCkDI-o9e4-Jhhpexs7U2DWZH8UceOlrxUwRS9-FtTBJMWLqDYB4ZNe5zmZDbxN_SJ6CKwFbPT9oHoeAFX4Dg8X-ALjQFItDBAEqu7qq&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=1627360823ef1c006828cf368780c262b&ba_uid=0f7ba069-7c2a-41ae-a500-028a5e1fb225",
+          "price": "$322"
+        },
+        {
+          "name": "Aloft Long Island City-Manhattan View",
+          "address": "2745 Jackson Ave, Long Island City, NY 11101-2917",
+          "phone_number": "1 (855) 821-4553",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=Marriott_BA&src=183965240&geo=11642010&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282232969&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZkxxb8Sx0qj-Xhm1bMOGUqsgNF8XLPPJLEQasPZKxKis&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=141373da493e7aac9d1bac989acd68555&ba_uid=864d0e7e-3faf-41a6-ab84-de62b697859f",
+          "price": "$311"
+        },
+        {
+          "name": "LaGuardia Plaza Hotel",
+          "address": "104-04 Ditmars Blvd, East Elmhurst, NY 11369",
+          "phone_number": "1 (347) 647-2564",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=BestWestern_BA&src=232039168&geo=93644&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38631&bucket=937050&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282233075&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZcmAuPbCaaN2RelLMRzMJrTUQRzSMxT28FHsB9X8yyDw&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=1fc96dd05a449f8beac517d02431cab49&ba_uid=3e83408b-c11c-4b9a-a28d-8e55b41bd057",
+          "price": "$255"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Sammy's Fashion",
+          "Address": "81 E 161 St, Bronx, NY 10451, United States",
+          "Mobile": "+1 718-562-1386",
+          "Website": "https://sammys.nyc/"
+        },
+        {
+          "Name": "First Stop Fashion",
+          "Address": "108 E 170th St, Bronx, NY 10452, United States",
+          "Mobile": "+1 718-538-4000",
+          "Website": "https://fsfnyc.com/"
+        },
+        {
+          "Name": "Hot Point International Fashions",
+          "Address": " 340 E Fordham Rd, Bronx, NY 10458, United States",
+          "Mobile": "+1 718-295-2980",
+          "Website": "https://hotpointfashion.com/"
+        },
+        {
+          "Name": "Express",
+          "Address": "200 Baychester Ave, Bronx, NY 10475, United States",
+          "Mobile": "+1 347-708-8248",
+          "Website": "https://stores.express.com/us/ny/bronx/200-baychester-avenue?CID=Yext"
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "BronxCare Health System",
+          "Address": "1650 Grand Concourse, Bronx, NY 10457, United States",
+          "phone_number": "+1 718-590-1800",
+          "email": "info@bchs.us"
+        },
+        {
+          "name": "Montefiore Hospital",
+          "Address": " 111 E 210th St, Bronx, NY 10467, United States",
+          "phone_number": "+1 718-920-4321",
+          "email": "info@mmfh.us"
+        }
+      ]
+    },
+    "Queens": {
+      "Accomodation": [
+        {
+          "name": "The New Yorker, A Wyndham Hotel",
+          "address": "481 8th Avenue & 34th Street, New York City, NY 10001-1809",
+          "phone_number": "",
+          "email": "",
+          "website": "",
+          "price": "$247"
+        },
+        {
+          "name": "CIVILIAN Hotel",
+          "address": "305 W 48th St, New York City, NY 10036",
+          "phone_number": "011 64 6 692 8012",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=0&geo=23697368&from=Hotel_Review&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=282233625&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdx9U1w_AI9PMr4rZfAXgtgK35zNTTLTDWbNwT3T_wwCrw&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=2&cs=16653681dde320817ff3b25bbe4d0f4c6&ba_uid=1c5cb00b-a3c8-49af-aadb-6e5f6f6c90fa",
+          "price": "$295"
+        },
+        {
+          "name": "InterContinental New York Barclay, an IHG Hotell",
+          "address": "111 East 48th St, New York City, NY 10017",
+          "phone_number": "1 (877) 666-0134",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=139919437&geo=93462&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=1007820&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282233700&managed=false&capped=false&gosox=srVNQGoQ5BIVms7GkGUZCKL4CLybQm-R30SAtBsffBKISYJpTBzVDJrspvZooaZMtTBJMWLqDYB4ZNe5zmZDb5ckWM7ntLRDJOpRSKda00umBk6_cjYr-gHUkU-Ra5h1&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=11c76e5e7acf09c8e6f493419a82c3137&ba_uid=dece0d21-da5f-4727-8823-eee299bf79bf",
+          "price": "$349"
+        },
+        {
+          "name": "DoubleTree by Hilton Hotel New York Times Square West",
+          "address": "1350 W 40th St, New York City, NY 10018",
+          "phone_number": "1 (855) 605-0318",
+          "email": "reservations@onekingwest.com",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=139923283&geo=11236004&from=Hotel_Review&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=899440&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282233772&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDb7ydEmM_vR2hPNYm6zQLQwyyWTdvuLCADlF1izG0BVU8&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=2&cs=17088deedc3b6aaf7272041b78a3556d0&ba_uid=91d3fcf7-0b3f-40c9-8c92-146f2babe648",
+          "price": "$311"
+        },
+        {
+          "name": "Moxy NYC East Village",
+          "address": "112 East 11th Street, New York City, NY 10003",
+          "phone_number": "1 (212) 288-6699",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=Marriott_BA&src=183960256&geo=17783246&from=Hotel_Review&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=282233827&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ4uj6Z_GW3rG8O1wGjFd4ENDa0cT8gRBtdJDlMvKJWKQ&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&dated=true&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=1&cs=123c69d325b61387e4eff0871b1a4342f&ba_uid=fd403c97-c8a2-431d-8a3d-dfc1d20e95c1",
+          "price": "$280"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Express",
+          "Address": "90-15 Queens Blvd, Queens, NY 11373, United States",
+          "Mobile": "+1 718-760-4346",
+          "Website": "https://stores.express.com/us/ny/elmhurst/90-15-queens-blvd?CID=Yext"
+        },
+        {
+          "Name": "Rainbow Shops",
+          "Address": "159-11 Jamaica Ave, Queens, NY 11432, United States",
+          "Mobile": "+1 718-523-0016",
+          "Website": "https://stores.rainbowshops.com/ny/jamaica/31/?utm_source=G&utm_medium=lpm&utm_campaign=RainbowShops"
+        },
+        {
+          "Name": "Old Navy",
+          "Address": "159-18 Jamaica Ave, Queens, NY 11432, United States",
+          "Mobile": " +1 718-297-2511",
+          "Website": "https://oldnavy.gap.com/stores/ny/jamaica/oldnavy-5138.html"
+        },
+        {
+          "Name": "Glory Fashion",
+          "Address": "16506 Jamaica Ave, Queens, NY 11432, United States",
+          "Mobile": "1 347-542-1294",
+          "Website": ""
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "Queens Hospital Center",
+          "Address": "82-68 164th St, Queens, NY 11432, United States",
+          "phone_number": "+1 718-883-3000",
+          "email": "info@qhc.us"
+        },
+        {
+          "name": "Mount Sinai Queens",
+          "Address": "25-10 30th Ave., Queens, NY 11102, United States",
+          "phone_number": "+1 718-932-1000",
+          "email": "info@msq.us"
+        }
+      ]
+    },
+    "Brooklyn": {
+      "Accomodation": [
+        {
+          "name": "Hotel Edison",
+          "address": "228 West 47th Street, New York City, NY 10036-1401",
+          "phone_number": "1 (646) 859-1720",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=0&geo=93437&from=Hotel_Review&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=282231572&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkfsUGMdNoNQMxWmenaHQ1IRYM-5okDVYnz4dwvg7rCVh--6-tcHaYCAjoXSgqI-wJA&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=2&cs=1864e977e95af722f2cfa1d36b773643d&ba_uid=39ba3ae5-f628-4ed2-92cf-3a8d04147673",
+          "price": "$292"
+        },
+        {
+          "name": "The Dominick Hotel",
+          "address": "246 Spring Street, New York City, NY 10013-1521",
+          "phone_number": "1 (917) 737-6751",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=0&geo=1456416&from=Hotel_Review&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=282231680&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkbBl4j9qGDkNMmnznPl_ZohFfeLOrvdwCN8b_PG1T75VsUL19d1Sc_wT69xdGVZAkA&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=2&cs=17e3c6cb165dbf6df3e1b45201d03ec0c&ba_uid=00e003c9-1496-4fb2-b30a-3d528bbb427b",
+          "price": "$365"
+        },
+        {
+          "name": "Pod Brooklyn",
+          "address": "247 Metropolitan Ave, Brooklyn, NY 11211-4009",
+          "phone_number": "",
+          "email": "",
+          "website": "",
+          "price": "$280"
+        },
+        {
+          "name": "The Baltic Hotele",
+          "address": " 489 Baltic St., Brooklyn, NY 11217",
+          "phone_number": "",
+          "email": "",
+          "website": "",
+          "price": "$186"
+        },
+        {
+          "name": "Ace Hotel Brooklyn",
+          "address": "252 Schermerhorn St, Brooklyn, NY 11217-1005",
+          "phone_number": "1 (718) 313-3636",
+          "email": "",
+          "website": "https://www.tripadvisor.ca/Commerce?p=TABAIndependentHotels&src=0&geo=23289322&from=Hotel_Review&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=282232292&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdwCyC0k2hrlvxuYOsBGs4bP3PeeBXR2FIu3Y_HJQVs2gQ&adults=2&child_rm_ages=&inDay=24&outDay=25&rooms=1&inMonth=12&inYear=2023&outMonth=12&outYear=2023&def_d=true&bapid=2&cs=164563b84572a317781630ca27b8fa0a7&ba_uid=86b60620-eaa3-435d-9758-07c9be739eea",
+          "price": "$385"
+        }
+      ],
+      "Transportation": [
+        
+      ],
+      "Clothing": [
+        {
+          "Name": "Something Else on Fifth",
+          "Address": "206 5th Ave, Brooklyn, NY 11217, United States",
+          "Mobile": "+1 718-622-1262",
+          "Website": "https://somethingelsebk.com/wp-login.php?redirect_to=https%3A%2F%2Fsomethingelsebk.com%2F&reauth=1"
+        },
+        {
+          "Name": "Free People",
+          "Address": "113 Smith St, Brooklyn, NY 11201, United States",
+          "Mobile": "+1 718-250-0050",
+          "Website": "https://www.freepeople.com/stores/brooklyn/"
+        },
+        {
+          "Name": "Urban Outfitters",
+          "Address": "98 N 6th St, Brooklyn, NY 11249, United States",
+          "Mobile": "+1 718-599-0209",
+          "Website": "https://www.urbanoutfitters.com/stores/williamsburg/?utm_medium=organic&utm_source=google&utm_campaign=local&utm_content=1014"
+        },
+        {
+          "Name": "Clothing Store",
+          "Address": "6801 Bay Pkwy, Brooklyn, NY 11204, United States",
+          "Mobile": "+1 212-470-7471",
+          "Website": ""
+        }
+      ],
+      "Groceries": [
+        
+      ],
+      "Dining": [
+        
+      ],
+      "MedicalFacilities": [
+        {
+          "name": "The Brooklyn Hospital Center",
+          "Address": "121 Dekalb Ave, Brooklyn, NY 11201, United States",
+          "phone_number": "+1 718-250-8000",
+          "email": "info@thhc.us"
+        },
+        {
+          "name": "University Hospital-Brooklyn",
+          "Address": "450 Clarkson Ave, Brooklyn, NY 11203, United States",
+          "phone_number": "+1 718-270-1000",
+          "email": "info@uhb.us"
+        }
+      ]
+    }
+  }
+}
